@@ -1,0 +1,19 @@
+C:\Users\maari\source\repos\Figuras geometricas\bin\Debug\Figuras geometricas.exe.config
+C:\Users\maari\source\repos\Figuras geometricas\bin\Debug\Figuras geometricas.exe
+C:\Users\maari\source\repos\Figuras geometricas\bin\Debug\Figuras geometricas.pdb
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras geometricas.csprojAssemblyReference.cache
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Form1.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Properties.Resources.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras geometricas.csproj.GenerateResource.cache
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras geometricas.csproj.CoreCompileInputs.cache
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras geometricas.exe
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras geometricas.pdb
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Cuadrado.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Rectangulo.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Triangulo.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Circulo.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Romboide.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Trapecio.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Pentagono.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.btnformhexagono.resources
+C:\Users\maari\source\repos\Figuras geometricas\obj\Debug\Figuras_geometricas.Hexagono.resources
